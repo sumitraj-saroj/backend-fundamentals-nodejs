@@ -1,6 +1,6 @@
-# Namaste Node.js – Episode 2 (Combined Notes)
+# Namaste Node.js – Episode 2 
 
-## 1. JavaScript on the Server (From PDF + Provided Content)
+## 1. JavaScript on the Server
 
 ### What is a Server?
 - A server provides data, resources, or services to clients over a network.
@@ -12,7 +12,7 @@
 
 ---
 
-## 2. Node.js as JS on the Server (PDF Notes) fileciteturn0file0
+## 2. Node.js as JS on the Server
 - Node.js is essentially a **C++ application** with the **V8 engine embedded** inside it.
 - V8 (Google’s JS & WebAssembly engine) is written in **C++**, making it embeddable in any C++ program.
 - Node.js extends V8 by providing:
@@ -29,7 +29,7 @@ NodeJS (C++)
 
 ---
 
-## 3. The V8 JavaScript Engine (From Summary + PDF)
+## 3. The V8 JavaScript Engine
 - V8 is Google's **high-performance JS engine**, used in Chrome and Node.js.
 - Performs:
   - **Parsing → AST creation**
@@ -49,7 +49,7 @@ V8 handles this conversion internally.
 
 ---
 
-## 5. ECMA Script Standards (From PDF Page 2) fileciteturn0file0
+## 5. ECMA Script Standards
 JavaScript engines follow **ECMAScript** standards.
 
 Examples:
