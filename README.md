@@ -21,3 +21,12 @@ The goal is to go beyond writing Node applications and instead explore **how the
 
 - [_Notes_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_02-Js%20on%20Server/js_on_server.pdf)
 
+## [_Chapter 03 - Lets write code_]()
+- [_Theroy_]
+- [_Notes_]
+
+## [_Chapter 04 - Chapter 04 - module.export & require_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_04%20-module.export%20and%20require)
+- [_Code](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_04%20-module.export%20and%20require/code)
+- [_Theory_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_04%20-module.export%20and%20require/Chapter_04.md)
+- [_Notes_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_04%20-module.export%20and%20require/chapter_04_notes.pdf)
+
