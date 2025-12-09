@@ -17,16 +17,19 @@ The goal is to go beyond writing Node applications and instead explore **how the
 
 ## [_Chapter 02 - Javscript on Server_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_02-Js%20on%20Server)
 
-- [_Theroy_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_02-Js%20on%20Server/js_on_server.md)
+- [_Theory_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_02-Js%20on%20Server/js_on_server.md)
 
 - [_Notes_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_02-Js%20on%20Server/js_on_server.pdf)
 
 ## [_Chapter 03 - Lets write code_]()
-- [_Theroy_]
-- [_Notes_]
+- [_Theory_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_03%20-%20Let's%20Write%20the%20code/code/index.js)
+- [_Notes_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_03%20-%20Let's%20Write%20the%20code/code/README.md)
 
 ## [_Chapter 04 - Chapter 04 - module.export & require_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_04%20-module.export%20and%20require)
 - [_Code](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_04%20-module.export%20and%20require/code)
 - [_Theory_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_04%20-module.export%20and%20require/Chapter_04.md)
 - [_Notes_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_04%20-module.export%20and%20require/chapter_04_notes.pdf)
 
+## [_Chapter 05 - Chapter_05 - Diving in to NodeJS github repo_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_05%20-%20Diving%20in%20to%20NodeJS%20github%20repo)
+- [_code_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_05%20-%20Diving%20in%20to%20NodeJS%20github%20repo/code)
+- [_Theory_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_05%20-%20Diving%20in%20to%20NodeJS%20github%20repo/Chapter_05_notes.md)
