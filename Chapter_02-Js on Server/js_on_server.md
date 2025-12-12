@@ -1,4 +1,4 @@
-# Namaste Node.js – Episode 2 
+
 
 ## 1. JavaScript on the Server
 
