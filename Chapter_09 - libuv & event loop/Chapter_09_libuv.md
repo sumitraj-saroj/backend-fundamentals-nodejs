@@ -1,4 +1,4 @@
-# **libuv & The Node.js Event Loop — Complete Textbook-Style Notes**
+# **libuv & The Node.js Event Loop 
 
 ---
 
