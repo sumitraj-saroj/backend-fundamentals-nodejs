@@ -29,7 +29,7 @@ The goal is to go beyond writing Node applications and instead explore **how the
 
 ## [_Chapter 04- module.export & require_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_04%20-module.export%20and%20require)
 
-- [\_Code](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_04%20-module.export%20and%20require/code)
+- [_Code_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_04%20-module.export%20and%20require/code)
 - [_Theory_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_04%20-module.export%20and%20require/Chapter_04.md)
 - [_Notes_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_04%20-module.export%20and%20require/chapter_04_notes.pdf)
 
@@ -43,3 +43,8 @@ The goal is to go beyond writing Node applications and instead explore **how the
 - [_code_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_06%20-%20libuv%20%26%20async%20IO/code)
 - [_Theory_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_06%20-%20libuv%20%26%20async%20IO/Chapter_06_notes.md)
 - [_Notes_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_06%20-%20libuv%20%26%20async%20IO/Chapter_06_notes.pdf)
+
+## [_Chapter 07 - sync async, setTimeout Zero_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_07-%20Chapter%2007%20-%20sync%20async%2C%20setTimeout%20Zero)
+
+- [_code_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_07-%20Chapter%2007%20-%20sync%20async%2C%20setTimeout%20Zero/code)
+- [_Theory_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_07-%20Chapter%2007%20-%20sync%20async%2C%20setTimeout%20Zero/Chapter_07-notes.md)
