@@ -48,3 +48,5 @@ The goal is to go beyond writing Node applications and instead explore **how the
 
 - [_code_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/tree/main/Chapter_07-%20Chapter%2007%20-%20sync%20async%2C%20setTimeout%20Zero/code)
 - [_Theory_](https://github.com/sumitraj-saroj/backend-fundamentals-nodejs/blob/main/Chapter_07-%20Chapter%2007%20-%20sync%20async%2C%20setTimeout%20Zero/Chapter_07-notes.md)
+
+
